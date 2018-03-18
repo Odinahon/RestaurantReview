@@ -1,0 +1,7 @@
+<h3>Successfully added!</h3>
+@foreach( var r in @ViewBag.reviews){
+    <p>Review for: @r.RestaurantName @r.Stars star(s)</p> <br>
+    <p>Reviewer: @r.Reviewer, @r.CreatedAt.ToString( "MMM dd, yyyy")</p><br>
+    <p>@r.newReview</p><br>
+    <p>________________________________________________</p>
+}

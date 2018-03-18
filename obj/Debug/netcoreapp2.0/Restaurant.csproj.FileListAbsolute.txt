@@ -1,0 +1,10 @@
+/Users/odinahon/Documents/CodingDojoAssignments/C#/Restaurant/bin/Debug/netcoreapp2.0/Restaurant.deps.json
+/Users/odinahon/Documents/CodingDojoAssignments/C#/Restaurant/bin/Debug/netcoreapp2.0/Restaurant.runtimeconfig.json
+/Users/odinahon/Documents/CodingDojoAssignments/C#/Restaurant/bin/Debug/netcoreapp2.0/Restaurant.runtimeconfig.dev.json
+/Users/odinahon/Documents/CodingDojoAssignments/C#/Restaurant/bin/Debug/netcoreapp2.0/Restaurant.dll
+/Users/odinahon/Documents/CodingDojoAssignments/C#/Restaurant/bin/Debug/netcoreapp2.0/Restaurant.pdb
+/Users/odinahon/Documents/CodingDojoAssignments/C#/Restaurant/obj/Debug/netcoreapp2.0/Restaurant.csproj.CoreCompileInputs.cache
+/Users/odinahon/Documents/CodingDojoAssignments/C#/Restaurant/obj/Debug/netcoreapp2.0/Restaurant.AssemblyInfoInputs.cache
+/Users/odinahon/Documents/CodingDojoAssignments/C#/Restaurant/obj/Debug/netcoreapp2.0/Restaurant.AssemblyInfo.cs
+/Users/odinahon/Documents/CodingDojoAssignments/C#/Restaurant/obj/Debug/netcoreapp2.0/Restaurant.dll
+/Users/odinahon/Documents/CodingDojoAssignments/C#/Restaurant/obj/Debug/netcoreapp2.0/Restaurant.pdb

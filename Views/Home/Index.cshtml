@@ -1,0 +1,40 @@
+﻿@model Restaurant.Models.RReview  
+@{
+    ViewData["Title"] = "Home Page";
+}
+<h3>Write a new Review:</h3>
+<form action="addreview" method="post">
+    <p>Reviewer Name: <input type="text" name="reviewer"></p>
+    <p>Reataurant Name: <input type="text" name="restaurant"></p>
+    <p>Review: <input type="text" name="review"></p>
+    <p>Stars: <select name="stars" id="">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+    </select></p>
+   
+    <p>Date of visit: <input type="date" name="date"></p>
+    <button>Submit</button>
+</form>
+
+<div>
+    @{
+        foreach(var error in ViewBag.errors)
+        {
+            //If there are any errors for a field...
+            if(@error.Errors.Count > 0)
+            {
+                // We show the first error for that field
+                <p>@error.Errors[0].ErrorMessage</p>
+            }
+        }
+    }
+</div>
+
+
+
+
+
+ 
